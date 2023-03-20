@@ -1,7 +1,7 @@
 #!/bin/bash
 # change these variables
 NUMBER=16
-APPLES=12
+APPLES=16
 KING="LUIS"
 # modify above variables
 # to make all decisions below TRUE
